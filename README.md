@@ -10,9 +10,9 @@
 
 <div align="center">
   <p align="left">➡️ Mobile View:</p>
-  <img src="https://github.com/the-shivam-gupta/the-shivam-gupta.github.io/assets/109647722/68bd7a3b-edbf-4381-9eae-e781a262481a" width="200px"/>
+  <img src="https://github.com/dnyaneshwari111999/portfolio/blob/main/public/mobile_view.jpeg" width="200px"/>
   <p align="left">➡️ Desktop View:</p>
-  <img src="https://github.com/the-shivam-gupta/the-shivam-gupta.github.io/assets/109647722/da8c34c1-7978-44a3-960d-7c1d41180b81" width="800px"/>
+  <img src="https://github.com/dnyaneshwari111999/portfolio/blob/main/public/desktopview.jpg" width="800px"/>
 </div>
 
 <p align="center">
